@@ -62,7 +62,7 @@ The image taken will be shown in the placeholder and the user can tap on Submit 
 
 <img src="images/5.jpg" width="250">
 
-By tapping on the Device button, the user is able to to select an image from their gellery.
+By tapping on the Device button, the user is able to to select an image from their gallery.
 
 ## Selection - Gallery 1
 
