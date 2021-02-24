@@ -1,0 +1,4 @@
+0 fifty_dollar
+1 five_dollar
+2 ten_dollar
+3 two_dollar
