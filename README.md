@@ -102,5 +102,4 @@ When the user tap on the Submit button, a request will be sent to the model in A
 
 # Video Demo on Actual Android Device
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=L7d5Riaevqk" target="_blank"><img src="images/1.jpg" 
-alt="Demo" width="240" border="10" /></a>
+<a href="https://youtu.be/q5GzTx9mBoc" target="_blank">Youtube Link</a>
