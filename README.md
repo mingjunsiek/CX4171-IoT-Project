@@ -2,6 +2,8 @@
 
 ## Bank Note Classification Mobile Application
 
+<img src="images/Architect.png" width="500">
+
 For this project, I have created a mobile application that is able to classify an image of a bank note using the user's smartphone. The user can either take an image of the bank note using their smartphone's camera or select a bank note image that is already in their gallery. The user is able to send the image over to the model that is hosted on Azure Machine Learning cloud service and conduct a prediction based on the image sent. The prediction result will be sent back to the app which will be displayed to the user.
 
 # Part 1: Image Classification Model

@@ -79,7 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
     List<int> imageBytes = _selectedFile.readAsBytesSync();
     String base64Image = base64Encode(imageBytes);
     String url =
-        'http://302246c6-065b-4a25-8cf8-8e70627924aa.southeastasia.azurecontainer.io/score';
+        'http://9ddfb121-cd13-4b11-946a-601f0276240d.southeastasia.azurecontainer.io/score';
 
     print("Sending POST Request");
     this.setState(() {
